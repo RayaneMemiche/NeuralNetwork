@@ -28,3 +28,4 @@ To install and run the project locally:
 ```bash
 git clone [REPOSITORY_URL]
 cd [PROJECT_FOLDER_NAME]
+```
